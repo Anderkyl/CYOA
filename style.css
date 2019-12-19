@@ -1,0 +1,42 @@
+body{
+  
+}
+
+h1{
+  text-align:center;
+}
+
+h2{
+  text-align:center;
+  color:black;
+}
+
+h3{
+  text-align:center;
+}
+
+h5{
+color:black;
+font-family: 'Courier Prime', monospace;
+text-align:center;
+}
+
+#content{
+  font-family: 'Bowlby One SC', cursive;
+}
+
+openingScreen(){
+background-color:black;
+}
+
+button{
+  align:center;
+}
+
+div{
+  background-image:url(https://c.stocksy.com/a/7rf900/z9/2305849.jpg?1573501592);
+  background-repeat:no-repeat;
+  background-size: contain;
+  background-position: cover;
+  background-attachment:fixed;
+}
